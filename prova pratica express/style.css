@@ -1,0 +1,19 @@
+body{
+    border-radius: 0;
+    margin: 0;
+    background-color: #ffff;
+}
+.caixa1{
+    text-align: center;
+    
+}
+.input{
+   flex-direction: column;
+}
+h1{
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+}
